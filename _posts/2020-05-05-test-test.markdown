@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "This is the test information page."
+---
+
+# Hello, my beauty.
+
+**Hack your life**, this is my binary world.
+
+I hope you can reverse it.
